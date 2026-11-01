@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GammaSwitch.Core/GammaSwitch.Core.csproj" />
+    <Project Path="src/GammaSwitch/GammaSwitch.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GammaSwitch.NativeTests/GammaSwitch.NativeTests.csproj" />
+    <Project Path="tests/GammaSwitch.Tests/GammaSwitch.Tests.csproj" />
+  </Folder>
+</Solution>
